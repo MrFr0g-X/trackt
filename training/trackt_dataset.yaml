@@ -1,0 +1,10 @@
+path: datasets/trackt_yolo
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: target_standing
+  1: target_fallen
+  2: rc_car
+
