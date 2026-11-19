@@ -18,6 +18,8 @@ Built for DSAI 352 (Computer Vision) at Zewail City. Scored 6/6 on every real te
 
 ![Result screen](docs/result.jpg)
 
+Yes, the footage is blurred. It was shot in my living room and you don't need a tour of my couch. It works perfectly though, so grab the APK and test it yourself if you don't trust me.
+
 ## How it works
 
 - Offline mode is a hybrid. Color masks find the pins, and a small YOLO model helps confirm what is standing and what is down.
